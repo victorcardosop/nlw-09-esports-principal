@@ -18,7 +18,7 @@ Projeto princpal do evento exclusivo e gratuito realizado do dia 12/09/2022 até
 <br>
 
 <p align="center">
-<img alt="NLW eSports - Projeto Principal" src="assets/preview.jpg" width="100%">
+<img alt="NLW eSports - Projeto Principal" src="./assets/preview.JPG" width="100%">
 </p>
 
 ## Tecnologias
